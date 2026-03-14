@@ -9,7 +9,7 @@
 
 2. Клонируйте репозиторий 
     git clone https://github.com/lordmedivivan52gang/effective-mobile-test.git
-    cd /project
+    cd ~/project
 
 3. Запустите проект
     docker-compose up -d
